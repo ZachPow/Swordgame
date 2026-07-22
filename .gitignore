@@ -1,0 +1,28 @@
+# === Copyrighted Infinity Blade III material — NEVER commit (legal guardrail) ===
+# The game bundle and any raw extracted game content stays local only.
+/extracted/
+*.ipa
+
+# Extracted asset output (~6.6 GB of meshes/textures/materials decoded from the
+# game). Too large for git and copyrighted — keep local. Only the inventory doc
+# (counts/locations, no game content) is committed.
+/exported/*
+!/exported/INVENTORY.md
+
+# === Third-party tools (fetch per tools/extract/README.md, not redistributed) ===
+/tools/extract/umodel
+/tools/extract/umodel_linux.tar.gz
+/tools/extract/libpng12.so.0
+/tools/extract/libpng12
+
+# === Logs & OS cruft ===
+*.log
+.DS_Store
+
+# === Future UE5 project (Phase 2) ===
+# Uncomment when IB3Remake/ is scaffolded:
+# Binaries/
+# DerivedDataCache/
+# Intermediate/
+# Saved/
+# *.sln
