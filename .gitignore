@@ -15,6 +15,9 @@
 /tools/extract/libpng12.so.0
 /tools/extract/libpng12
 
+# Blender→FBX conversion output (Phase 1b.2, ~10-15 GB, regenerated from exported/)
+/converted/
+
 # === Logs & OS cruft ===
 *.log
 .DS_Store
