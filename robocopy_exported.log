@@ -1,0 +1,2130 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wednesday, July 22, 2026 8:21:38 PM
+   Source = F:\exported\
+     Dest : D:\coding\ClaudeDev\SwordGame\Swordgame\exported\
+
+    Files : *.*
+	    
+  Options : *.* /NDL /NFL /S /E /DCOPY:DA /COPY:DAT /MT:8 /R:2 /W:5 
+
+------------------------------------------------------------------------------
+  0%    0%  
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\00_ClashMob_BaseScripting\Texture2D\M_Coin_01_Flattened.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\00_ClashMob_BaseScripting\Texture2D\M_SubUV_Dust_Blow_Rise_Gr3_Flattened.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\LightMapTexture2D\SimpleLightmap_0_1.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\LightMapTexture2D\SimpleLightmap_0_2.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\LightMapTexture2D\SimpleLightmap_0_3.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\LightMapTexture2D\SimpleLightmap_0_4.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\MerchantShip_Bottle_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\MerchantShip_Storagebox_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Dock_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Ground.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Ground_Dirt.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Ground_Dirt_Transition.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Ground_Transition.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_HideoutCliffs_Babies_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Hideout_Building01_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Hideout_Card_01Rflc.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Hideout_Card_02.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Hideout_Card_02Rflct.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Hideout_Card_03.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Hideout_Card_03Rflc.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Hideout_Forge_02_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_LakeWater02.png
+The file or directory is corrupted and unreadable.
+  0%  
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_MapSky08.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_MapSkyReflect.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Reflection.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Sand.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_TrainingCliffs_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Vegetation_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Waves.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\06ft_2W_Animset_SF\Texture2D\Basic_GradientGrid.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\06ft_2W_Animset_SF\Texture2D\Glow_add_14b_cheap_Flattened.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\06ft_2W_Animset_SF\Texture2D\Glow_Cloud_Flash01_Flattened.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\06ft_2W_Animset_SF\Texture2D\M_GlowBlue_Dim_Flattened.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\06ft_2W_Animset_SF\Texture2D\M_WaterDrops01add_Flattened.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_1.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_10.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_11.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_12.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_13.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_14.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_15.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_16.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_17.png
+The file or directory is corrupted and unreadable.
+  0%  
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_18.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_19.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_2.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_20.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_21.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_3.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_4.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_5.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_6.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_7.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_8.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_9.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_GemCutter\Texture2D\T_GemCutter_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_GemCutter\Texture2D\T_GemCutter_N.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\Chest_Village_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\Courtyard_pillar_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\Hideout_Building03_Mask.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\MerchantShip_Bottle_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\MerchantShip_Buoy_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\MerchantShip_Storagebox_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\M_Bird_01sub_Flattened.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\M_FX_FlareSecondary_02b_Flattened.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\M_Glow_20add2_Flattened.png
+The file or directory is corrupted and unreadable.
+  0%  
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Bird_Side_SubUV.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:40 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_BoatBottom_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_BoatTop_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_boat_Reflect.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Dock_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_FlyBug_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Foam_Gr2.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Foam_sprite.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Ground.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Ground_Dirt.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Ground_Dirt_Transition.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Ground_Transition.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_HideoutCliffs_Babies_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_HideoutCliffs_L_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_HideoutCliffs_R_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_HideoutFish_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Awnings_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Building01_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Building02_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Building03_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Card_01.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Card_01Rflc.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Card_02.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Card_02Rflct.png
+The file or directory is corrupted and unreadable.
+  0%  
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Card_03.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Card_03Rflc.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_CopperSculpture_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Forge_01_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Forge_02_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_MapBase_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Map_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Surbas_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Wall_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_LakeWater02.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Lensflare_Reflection.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_MapSky08.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_MapSkyReflect.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Reflection.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Sails_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Sails_E.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Sand.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_SmokePlume_D.png
+The file or directory is corrupted and unreadable.
+  0%  
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Vegetation_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Waterfall_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Water_Drops_Gr.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Waves.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude2\Texture2D\M_EyeGlowBlue_Flattened.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude2\Texture2D\T_InfinityCleaverStatic.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude2\Texture2D\T_Isa_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude2\Texture2D\T_Isa_N.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude2\Texture2D\T_Tel_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude2\Texture2D\T_Tel_N.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude3A\Texture2D\M_EyeGlowBlue_Flattened.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude3A\Texture2D\T_Tel_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude3A\Texture2D\T_Tel_N.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude4\Texture2D\T_Eyelashes.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude4\Texture2D\T_Merchant_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude4\Texture2D\T_Merchant_N.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude4\Texture2D\T_Tel_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude4\Texture2D\T_Tel_N.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude6\Texture2D\M_BladeSwipe02_Flattened.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_VillagerIntro2\Texture2D\M_EyeGlowBlue_Flattened.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_VillagerIntro2\Texture2D\T_Eyelashes.png
+The file or directory is corrupted and unreadable.
+  0%  
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_VillagerIntro2\Texture2D\T_Foam_Gr2.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_VillagerIntro2\Texture2D\T_Merchant_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_VillagerIntro2\Texture2D\T_Merchant_N.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_VillagerIntro2\Texture2D\T_Tel_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_VillagerIntro2\Texture2D\T_Tel_N.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_VillagerIntro2\Texture2D\T_Water_Drops_Gr.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\Markers_IB3_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\Markers_IB3_N.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\M_BladeSwipe02_Flattened.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\M_Fire_Flame_05_Flattened.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\M_GlowBlue_Dim_Flattened.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\M_Glow_20add2_Flattened.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\t_BirdBody.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\T_BirdWing_Add.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\T_ForgeMaster_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\T_ForgeMaster_N.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\T_Forge_Coals.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\T_FX_Leaves_01b.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\T_Hideout_ENV.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\T_PollenSeeds01.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\T_Reflection.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\LightMapTexture2D\SimpleLightmap_0_1.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\LightMapTexture2D\SimpleLightmap_0_3.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\LightMapTexture2D\SimpleLightmap_0_4.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\LightMapTexture2D\SimpleLightmap_1_2.png
+The file or directory is corrupted and unreadable.
+  0%  
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Merchant_Art\LightMapTexture2D\SimpleLightmap_0_1.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Merchant_Art\LightMapTexture2D\SimpleLightmap_0_2.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemForge_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemFushion_Candleholder_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemFushion_Ceiling_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemFushion_ComputerChip_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemFushion_Device_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemFushion_Floor_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemFushion_HangingTools_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemFushion_MedievalChair_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemFushion_MetalContainer_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemFushion_ReadingDesk_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemFushion_StoneWall_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemFushion_TechWall_01_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemFushion_TechWall_02_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemFushion_WindowWall_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\LaunchRoom_Machine_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\MountainRangeOPTMZint.png
+The file or directory is corrupted and unreadable.
+  0%  
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\T_GemCutter_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\T_GemCutter_N.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\T_GemFusionScreens_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\T_GemRotate_subUV.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:41 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\T_light_rays.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:42 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\T_Rescue_Blowing_Smoke_Pattern_1_Gr_Dup.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:42 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\T_ScrollingStuff.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:42 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\WindowMask.png
+The file or directory is corrupted and unreadable.
+  0%  
+2026/07/22 20:21:42 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Merchant_Art\Texture2D\GemFushion_MetalContainer_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:21:42 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Merchant_Art\Texture2D\MerchantShip_Awning_01_D.png
+The file or directory is corrupted and unreadable.
+  0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%  
+2026/07/22 20:24:05 ERROR 1392 (0x00000570) Copying File F:\exported\materials\G01_DremsMaw_Art\Texture2D\T_UN_Foliage_Materials_Grass03.tga
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:24:05 ERROR 1392 (0x00000570) Copying File F:\exported\materials\G01_DremsMaw_Art\Texture2D\T_UN_Foliage_Materials_Grass_Moody.tga
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:24:05 ERROR 1392 (0x00000570) Copying File F:\exported\materials\G01_DremsMaw_Art\Texture2D\T_UN_Foliage_Materials_Grass_MoodyDarker.tga
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:24:05 ERROR 1392 (0x00000570) Copying File F:\exported\materials\G01_DremsMaw_Art\Texture2D\T_UN_Foliage_Materials_Grass_MoodyLighter.tga
+The file or directory is corrupted and unreadable.
+  0%    0%    0%    0%    0%    0%    0%  
+2026/07/22 20:24:07 ERROR 1392 (0x00000570) Copying File F:\exported\materials\I02_OuterWalls_Art\Texture2D\T_UN_Foliage_Materials_Grass03.tga
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:24:07 ERROR 1392 (0x00000570) Copying File F:\exported\materials\I02_OuterWalls_Art\Texture2D\T_UN_Foliage_Materials_Grass_MoodyDarker.tga
+The file or directory is corrupted and unreadable.
+  0%    0%    0%    0%    0%    0%  
+2026/07/22 20:24:09 ERROR 1392 (0x00000570) Copying File F:\exported\materials\K01_Graveyard_Art\Texture2D\T_UN_Foliage_Materials_Grass03.tga
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:24:09 ERROR 1392 (0x00000570) Copying File F:\exported\materials\K02_Dragonlair_Art\Texture2D\T_UN_Foliage_Materials_Grass03.tga
+The file or directory is corrupted and unreadable.
+  0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%  
+2026/07/22 20:24:18 ERROR 1392 (0x00000570) Copying File F:\exported\materials\Startup\Texture2D\TooManyMaterials.tga
+The file or directory is corrupted and unreadable.
+  0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%    0%  Waiting 5 seconds...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\00_ClashMob_BaseScripting\Texture2D\M_Coin_01_Flattened.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\00_ClashMob_BaseScripting\Texture2D\M_SubUV_Dust_Blow_Rise_Gr3_Flattened.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\LightMapTexture2D\SimpleLightmap_0_1.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\LightMapTexture2D\SimpleLightmap_0_2.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\LightMapTexture2D\SimpleLightmap_0_3.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\LightMapTexture2D\SimpleLightmap_0_4.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\MerchantShip_Bottle_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\MerchantShip_Storagebox_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Dock_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Ground.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Ground_Dirt.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Ground_Dirt_Transition.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Ground_Transition.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_HideoutCliffs_Babies_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Hideout_Building01_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Hideout_Card_01Rflc.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Hideout_Card_02.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Hideout_Card_02Rflct.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Hideout_Card_03.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Hideout_Card_03Rflc.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Hideout_Forge_02_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_LakeWater02.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_MapSky08.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_MapSkyReflect.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Reflection.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Sand.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_TrainingCliffs_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Vegetation_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Waves.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\06ft_2W_Animset_SF\Texture2D\Basic_GradientGrid.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\06ft_2W_Animset_SF\Texture2D\Glow_add_14b_cheap_Flattened.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\06ft_2W_Animset_SF\Texture2D\Glow_Cloud_Flash01_Flattened.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\06ft_2W_Animset_SF\Texture2D\M_GlowBlue_Dim_Flattened.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\06ft_2W_Animset_SF\Texture2D\M_WaterDrops01add_Flattened.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_1.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_10.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_11.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_12.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_13.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_14.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_15.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_16.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_17.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_18.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_19.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_2.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_20.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_21.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_3.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_4.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_5.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_6.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_7.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_8.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_9.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_GemCutter\Texture2D\T_GemCutter_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_GemCutter\Texture2D\T_GemCutter_N.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\Chest_Village_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\Courtyard_pillar_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\Hideout_Building03_Mask.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\MerchantShip_Bottle_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\MerchantShip_Buoy_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\MerchantShip_Storagebox_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\M_Bird_01sub_Flattened.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\M_FX_FlareSecondary_02b_Flattened.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\M_Glow_20add2_Flattened.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Bird_Side_SubUV.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_BoatBottom_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_BoatTop_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_boat_Reflect.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Dock_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_FlyBug_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Foam_Gr2.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Foam_sprite.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Ground.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Ground_Dirt.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Ground_Dirt_Transition.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Ground_Transition.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_HideoutCliffs_Babies_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_HideoutCliffs_L_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_HideoutCliffs_R_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_HideoutFish_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Awnings_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Building01_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Building02_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Building03_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Card_01.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Card_01Rflc.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Card_02.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Card_02Rflct.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Card_03.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Card_03Rflc.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_CopperSculpture_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Forge_01_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Forge_02_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:04 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_MapBase_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Map_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Surbas_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Wall_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_LakeWater02.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Lensflare_Reflection.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_MapSky08.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_MapSkyReflect.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Reflection.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Sails_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Sails_E.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Sand.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_SmokePlume_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Vegetation_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Waterfall_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Water_Drops_Gr.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Waves.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude2\Texture2D\M_EyeGlowBlue_Flattened.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude2\Texture2D\T_InfinityCleaverStatic.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude2\Texture2D\T_Isa_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude2\Texture2D\T_Isa_N.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude2\Texture2D\T_Tel_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude2\Texture2D\T_Tel_N.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude3A\Texture2D\M_EyeGlowBlue_Flattened.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude3A\Texture2D\T_Tel_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude3A\Texture2D\T_Tel_N.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude4\Texture2D\T_Eyelashes.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude4\Texture2D\T_Merchant_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude4\Texture2D\T_Merchant_N.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude4\Texture2D\T_Tel_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude4\Texture2D\T_Tel_N.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude6\Texture2D\M_BladeSwipe02_Flattened.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_VillagerIntro2\Texture2D\M_EyeGlowBlue_Flattened.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_VillagerIntro2\Texture2D\T_Eyelashes.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_VillagerIntro2\Texture2D\T_Foam_Gr2.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_VillagerIntro2\Texture2D\T_Merchant_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_VillagerIntro2\Texture2D\T_Merchant_N.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_VillagerIntro2\Texture2D\T_Tel_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_VillagerIntro2\Texture2D\T_Tel_N.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_VillagerIntro2\Texture2D\T_Water_Drops_Gr.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\Markers_IB3_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\Markers_IB3_N.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\M_BladeSwipe02_Flattened.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\M_Fire_Flame_05_Flattened.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\M_GlowBlue_Dim_Flattened.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\M_Glow_20add2_Flattened.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\t_BirdBody.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\T_BirdWing_Add.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\T_ForgeMaster_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\T_ForgeMaster_N.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\T_Forge_Coals.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\T_FX_Leaves_01b.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\T_Hideout_ENV.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\T_PollenSeeds01.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\T_Reflection.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\LightMapTexture2D\SimpleLightmap_0_1.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\LightMapTexture2D\SimpleLightmap_0_3.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\LightMapTexture2D\SimpleLightmap_0_4.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\LightMapTexture2D\SimpleLightmap_1_2.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Merchant_Art\LightMapTexture2D\SimpleLightmap_0_1.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Merchant_Art\LightMapTexture2D\SimpleLightmap_0_2.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemForge_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemFushion_Candleholder_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemFushion_Ceiling_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemFushion_ComputerChip_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemFushion_Device_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemFushion_Floor_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemFushion_HangingTools_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemFushion_MedievalChair_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemFushion_MetalContainer_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemFushion_ReadingDesk_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemFushion_StoneWall_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemFushion_TechWall_01_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemFushion_TechWall_02_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemFushion_WindowWall_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\LaunchRoom_Machine_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\MountainRangeOPTMZint.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\T_GemCutter_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\T_GemCutter_N.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\T_GemFusionScreens_D.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\T_GemRotate_subUV.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\T_light_rays.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\T_Rescue_Blowing_Smoke_Pattern_1_Gr_Dup.png
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\T_ScrollingStuff.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\WindowMask.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Merchant_Art\Texture2D\GemFushion_MetalContainer_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Merchant_Art\Texture2D\MerchantShip_Awning_01_D.png
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\materials\G01_DremsMaw_Art\Texture2D\T_UN_Foliage_Materials_Grass03.tga
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\materials\G01_DremsMaw_Art\Texture2D\T_UN_Foliage_Materials_Grass_Moody.tga
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\materials\G01_DremsMaw_Art\Texture2D\T_UN_Foliage_Materials_Grass_MoodyDarker.tga
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\materials\G01_DremsMaw_Art\Texture2D\T_UN_Foliage_Materials_Grass_MoodyLighter.tga
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\materials\I02_OuterWalls_Art\Texture2D\T_UN_Foliage_Materials_Grass03.tga
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\materials\I02_OuterWalls_Art\Texture2D\T_UN_Foliage_Materials_Grass_MoodyDarker.tga
+The file or directory is corrupted and unreadable.
+ Retrying...
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\materials\K01_Graveyard_Art\Texture2D\T_UN_Foliage_Materials_Grass03.tga
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\materials\K02_Dragonlair_Art\Texture2D\T_UN_Foliage_Materials_Grass03.tga
+The file or directory is corrupted and unreadable.
+
+2026/07/22 20:27:05 ERROR 1392 (0x00000570) Copying File F:\exported\materials\Startup\Texture2D\TooManyMaterials.tga
+The file or directory is corrupted and unreadable.
+Waiting 5 seconds... Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\00_ClashMob_BaseScripting\Texture2D\M_Coin_01_Flattened.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\00_ClashMob_BaseScripting\Texture2D\M_SubUV_Dust_Blow_Rise_Gr3_Flattened.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\LightMapTexture2D\SimpleLightmap_0_1.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\LightMapTexture2D\SimpleLightmap_0_2.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\LightMapTexture2D\SimpleLightmap_0_3.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\LightMapTexture2D\SimpleLightmap_0_4.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\MerchantShip_Bottle_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\MerchantShip_Storagebox_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Dock_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Ground.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Ground_Dirt.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Ground_Dirt_Transition.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Ground_Transition.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_HideoutCliffs_Babies_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Hideout_Building01_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Hideout_Card_01Rflc.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Hideout_Card_02.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Hideout_Card_02Rflct.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Hideout_Card_03.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Hideout_Card_03Rflc.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Hideout_Forge_02_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_LakeWater02.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_MapSky08.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_MapSkyReflect.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Reflection.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Sand.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_TrainingCliffs_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Vegetation_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_BeachTraining_Art\Texture2D\T_Waves.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\06ft_2W_Animset_SF\Texture2D\Basic_GradientGrid.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\06ft_2W_Animset_SF\Texture2D\Glow_add_14b_cheap_Flattened.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\06ft_2W_Animset_SF\Texture2D\Glow_Cloud_Flash01_Flattened.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\06ft_2W_Animset_SF\Texture2D\M_GlowBlue_Dim_Flattened.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\06ft_2W_Animset_SF\Texture2D\M_WaterDrops01add_Flattened.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_1.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_10.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_11.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_12.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_13.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_14.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_15.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_16.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_17.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_18.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_19.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_2.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_20.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_21.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_3.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_4.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_5.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_6.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_7.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_8.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\LightMapTexture2D\SimpleLightmap_0_9.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_GemCutter\Texture2D\T_GemCutter_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_GemCutter\Texture2D\T_GemCutter_N.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\Chest_Village_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\Courtyard_pillar_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\Hideout_Building03_Mask.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\MerchantShip_Bottle_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\MerchantShip_Buoy_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\MerchantShip_Storagebox_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\M_Bird_01sub_Flattened.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\M_FX_FlareSecondary_02b_Flattened.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\M_Glow_20add2_Flattened.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Bird_Side_SubUV.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_BoatBottom_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_BoatTop_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_boat_Reflect.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Dock_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_FlyBug_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Foam_Gr2.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Foam_sprite.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Ground.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Ground_Dirt.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Ground_Dirt_Transition.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Ground_Transition.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_HideoutCliffs_Babies_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_HideoutCliffs_L_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_HideoutCliffs_R_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_HideoutFish_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Awnings_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Building01_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Building02_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Building03_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Card_01.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Card_01Rflc.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Card_02.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Card_02Rflct.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Card_03.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Card_03Rflc.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_CopperSculpture_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Forge_01_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Forge_02_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_MapBase_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Map_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Surbas_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Hideout_Wall_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_LakeWater02.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Lensflare_Reflection.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_MapSky08.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_MapSkyReflect.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Reflection.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Sails_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Sails_E.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Sand.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_SmokePlume_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Vegetation_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Waterfall_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Water_Drops_Gr.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Art\Texture2D\T_Waves.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude2\Texture2D\M_EyeGlowBlue_Flattened.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude2\Texture2D\T_InfinityCleaverStatic.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude2\Texture2D\T_Isa_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude2\Texture2D\T_Isa_N.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude2\Texture2D\T_Tel_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude2\Texture2D\T_Tel_N.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude3A\Texture2D\M_EyeGlowBlue_Flattened.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude3A\Texture2D\T_Tel_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude3A\Texture2D\T_Tel_N.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude4\Texture2D\T_Eyelashes.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude4\Texture2D\T_Merchant_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude4\Texture2D\T_Merchant_N.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude4\Texture2D\T_Tel_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude4\Texture2D\T_Tel_N.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_Interlude6\Texture2D\M_BladeSwipe02_Flattened.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_VillagerIntro2\Texture2D\M_EyeGlowBlue_Flattened.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_VillagerIntro2\Texture2D\T_Eyelashes.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_VillagerIntro2\Texture2D\T_Foam_Gr2.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_VillagerIntro2\Texture2D\T_Merchant_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_VillagerIntro2\Texture2D\T_Merchant_N.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_VillagerIntro2\Texture2D\T_Tel_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_VillagerIntro2\Texture2D\T_Tel_N.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Cine_VillagerIntro2\Texture2D\T_Water_Drops_Gr.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\Markers_IB3_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\Markers_IB3_N.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\M_BladeSwipe02_Flattened.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\M_Fire_Flame_05_Flattened.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\M_GlowBlue_Dim_Flattened.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\M_Glow_20add2_Flattened.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\t_BirdBody.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:09 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\T_BirdWing_Add.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\T_ForgeMaster_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\T_ForgeMaster_N.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\T_Forge_Coals.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\T_FX_Leaves_01b.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\T_Hideout_ENV.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\T_PollenSeeds01.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Beach_Nav\Texture2D\T_Reflection.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\LightMapTexture2D\SimpleLightmap_0_1.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\LightMapTexture2D\SimpleLightmap_0_3.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\LightMapTexture2D\SimpleLightmap_0_4.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\LightMapTexture2D\SimpleLightmap_1_2.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Merchant_Art\LightMapTexture2D\SimpleLightmap_0_1.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Merchant_Art\LightMapTexture2D\SimpleLightmap_0_2.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemForge_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemFushion_Candleholder_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemFushion_Ceiling_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemFushion_ComputerChip_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemFushion_Device_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemFushion_Floor_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemFushion_HangingTools_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemFushion_MedievalChair_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemFushion_MetalContainer_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemFushion_ReadingDesk_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemFushion_StoneWall_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemFushion_TechWall_01_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemFushion_TechWall_02_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\GemFushion_WindowWall_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\LaunchRoom_Machine_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\MountainRangeOPTMZint.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\T_GemCutter_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\T_GemCutter_N.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\T_GemFusionScreens_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\T_GemRotate_subUV.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\T_light_rays.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\T_Rescue_Blowing_Smoke_Pattern_1_Gr_Dup.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\T_ScrollingStuff.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_GemFushion_Art\Texture2D\WindowMask.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Merchant_Art\Texture2D\GemFushion_MetalContainer_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\textures\A00_Merchant_Art\Texture2D\MerchantShip_Awning_01_D.png
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\materials\G01_DremsMaw_Art\Texture2D\T_UN_Foliage_Materials_Grass03.tga
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\materials\G01_DremsMaw_Art\Texture2D\T_UN_Foliage_Materials_Grass_Moody.tga
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\materials\G01_DremsMaw_Art\Texture2D\T_UN_Foliage_Materials_Grass_MoodyDarker.tga
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+ Retrying...
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\materials\G01_DremsMaw_Art\Texture2D\T_UN_Foliage_Materials_Grass_MoodyLighter.tga
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\materials\I02_OuterWalls_Art\Texture2D\T_UN_Foliage_Materials_Grass03.tga
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\materials\I02_OuterWalls_Art\Texture2D\T_UN_Foliage_Materials_Grass_MoodyDarker.tga
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\materials\K01_Graveyard_Art\Texture2D\T_UN_Foliage_Materials_Grass03.tga
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\materials\K02_Dragonlair_Art\Texture2D\T_UN_Foliage_Materials_Grass03.tga
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+2026/07/22 20:27:10 ERROR 1392 (0x00000570) Copying File F:\exported\materials\Startup\Texture2D\TooManyMaterials.tga
+The file or directory is corrupted and unreadable.
+
+ERROR: RETRY LIMIT EXCEEDED.
+
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :      5236      5236         0         0         0         0
+   Files :     26970     26779         0         0       191         0
+   Bytes :   6.500 g   6.290 g         0         0  214.13 m         0
+   Times :   0:49:06   0:04:54                       0:00:00   0:00:37
+
+
+   Speed :           22,947,819 Bytes/sec.
+   Speed :            1,313.085 MegaBytes/min.
+   Ended : Wednesday, July 22, 2026 8:27:10 PM
+
